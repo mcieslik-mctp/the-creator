@@ -1,1 +1,4 @@
-Create a Python script that prints "Hello from Vertex AI!" to the console.
+Initial instructions:
+
+Create a python command line application the-creator.py which will use the Vertex API to take user instructions from a TXT file provided at the input and calls the API to get back a python script as per user instructions
+
